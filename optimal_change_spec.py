@@ -1,4 +1,4 @@
-import optimal_change() from optimal_change
+from optimal_change import optimal_change
 
 
 
@@ -13,7 +13,7 @@ print(optimal_change(4,5) == "The optimal change for an item that costs $4.00 wi
 
 print(optimal_change(100.00, 500) == "The optimal change for an item that costs $100.00 with an amount paid of $500.00 is 4 $100 bills.")
 
-print(optimal_change(20.00,120) == "The optimal change for an item that costs $20.00 with an amount paid of $120.00 is 5 $100 bills.")
+print(optimal_change(20.00,120) == "The optimal change for an item that costs $20.00 with an amount paid of $120.00 is 1 $100 bill.")
 
 ##EDGE CASES
 print(optimal_change(5,5) == "Thanks for using exact change.  Have a great day!")
