@@ -9,7 +9,7 @@
 - You need to get a 75% or better to pass. (You must pass all assessments in order to graduate Code Platoon's program.)
 - If you fail the assessment, you have can retake it once to improve your score. For this assessment... 
   - *5% penalty*: If you complete and submit the retake **within one week** of receiving your grade. 
-  - *10% penalty*: If you complete and submit the retake **by 8:30am, March 26th, 2022**. A retake for this assessment WILL NOT be accepted after this date.
+  - *10% penalty*: If you complete and submit the retake **by 8:30am, August 1st, 2022**. A retake for this assessment WILL NOT be accepted after this date.
 
 ## Rules / Process
 - This test is fully open notes and open Google, but is not to be completed with the help of any other student/individual.
